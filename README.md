@@ -1,3 +1,3 @@
 # dockerfiles
 
-Miscelaneous Dockerfiles
+Miscellaneous Dockerfiles
